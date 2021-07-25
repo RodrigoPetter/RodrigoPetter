@@ -6,28 +6,33 @@
 
 ## Experiência
 
-**2015 - Atual**</br>
-**Defensoria Pública do Estado do Rio Grande do Sul** | Porto Alegre</br>
+### Defensoria Pública do Estado do Rio Grande do Sul
+*2015 - Atual, Porto Alegre*</br>
 **Engenheiro de Software Full Stack**
-- Referência/liderança técnica de time ágil auto-gerenciável com 15 pessoas.
+- Atuação como referência/liderança técnica de time ágil auto-gerenciável com 15 pessoas.
 - Participação nas tomadas de decisões com os stakeholders.
 - Iniciativa no planejamento de sprints, reviews, retrospectivas e organização de workshops.
 - *DevOps advocate*.
+- Trabalhei migração para utilização de *infrastructure as code* e Docker Swarm para escalonamento horizontal.
+- Trabalhei na automação dos processos de implantação de software, com o objetivo de aumentar a velocidade e qualidade do que é produzido pelo time em busca de *Continuous Delivery* (atualmente fazendo *continuous integration*).
 - Arquitetação e desenvolvimento de ecossistema de *microservices* REST utilizando Spring Boot (Netflix OSS) e Node.js na integração com múltiplos sistemas do Tribunal de Justiça e de outros órgãos da justiça estadual e federal.
-- Continuous integration (Gitlab CI/CD) com deploys semanais.
-- Linguagens para JVM: Java, Groovy, Kotlin.
-- Frameworks JavaScript: Angularjs, React, NestJS.
 - TDD e testes de integração.
 - Testes de aceitação e regressão usando Selenium.
-- Automação de infraestrutura com Ansible.
-- Utilização de Docker Swarm para escalonamento horizontal.
+- Linguagens para JVM: Java, Groovy, Kotlin.
+- Frameworks JavaScript: Angularjs, React, NestJS.
 - Coleta de métricas para diagnóstico e monitoramento (Elasticsearch, Grafana, Micrometer).
+- Outras tecnolôgias:
+  - NoSQL: MongoDB, Redis
+  - RabbitMQ
+  - Ansible, Terraform
+  - Docker, Docker Swarm
 
 **2009 - 2015** </br>
-**Migrate** | Três de Maio -  Rio Grande do Sul</br>
+### Migrate
+*2009 - 2015, Três de Maio -  Rio Grande do Sul*</br>
 **Analista Sênior Genexus**
-- Integração com a SEFAZ para emissão de diversos tipos de documentos fiscais eletrônicos.
-- Integração com nota fiscal eletrônica do Uruguai.
+- Trabalhei ao lado de outro desenvolvedor na criação de um novo software para substituir os produtos legados da empresa, com o objetivo principal de disponibilizar uma API SOAP para integração com a SEFAZ para emissão de diversos tipos de documentos fiscais eletrônicos.
+- Aumento no *throughput* de emissão em mais de 100x comparado aos produtos legados fazendo uso do Redis como mecanismo de cache.
 - Atuação em projetos de inovação.
 
 ## Formação
