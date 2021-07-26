@@ -27,7 +27,7 @@
   - Ansible, Terraform
   - Docker, Docker Swarm
 
-**2009 - 2015** </br>
+
 ### Migrate
 *2009 - 2015, Três de Maio -  Rio Grande do Sul*</br>
 **Analista Sênior Genexus**
